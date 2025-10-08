@@ -1,0 +1,12 @@
+
+.databricks
+.DS_Store
+.vscode/*
+.databricks
+uv.lock
+.devcontainer
+.DS_Store
+src/*.egg-info
+src/marvel_characters/__pycache__/
+src/marvel_characters/models/__pycache__/
+.env
