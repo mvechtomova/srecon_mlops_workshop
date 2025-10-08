@@ -10,3 +10,4 @@ src/*.egg-info
 src/marvel_characters/__pycache__/
 src/marvel_characters/models/__pycache__/
 .env
+notebooks/mlruns
